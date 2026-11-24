@@ -8,7 +8,7 @@ Open the [live Word Explorer](https://vectors.rgbknights.com/) to see how senten
 From the repository root, run:
 
 ```sh
-python3 -m http.server 8000 --directory dist
+python3 -m http.server 8000
 ```
 
 Open [localhost:8000](http://localhost:8000/). The first visit downloads MiniLM into your browser.
